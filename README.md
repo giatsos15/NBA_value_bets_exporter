@@ -1,7 +1,7 @@
 # NBA_value_bets_exporter
 
-# Εδώ θα ανεβάζω αναλύσεις και σκέψεις μου για τη διαχείριση των στατιστικών 
+# Here I will upload my analyses and thoughts on the management of statistics
 
-Στο nba notebook γίνεται το scrapping των στατιστικών και στο stoiximan το scrapping των handicap. Ίσως αργότερα προσθέσουμε και τις αποδόσεις για τον υπολογισμό ποσοστών τζιραρίσματος.
+In the nba notebook is the scrapping of stats and in stoiximan the scrapping of handicap. Maybe later we'll add the odds for calculating jersey percentages.
 
-Στο αρχείο results γίνεται η σύγκριση των στατιστικών, των τελευταίων ματς σε σύγκριση με τα γενικά στατιστικά των παικτών. Σε αυτό λογικά θα βάλουμε και τα handicaps αλλά και τις αποδόσεις για τον υπολογισμό των value bets.
+The results file is where the stats are compared, the last few games compared to the overall stats of the players. In it we will logically put the handicaps and the odds for calculating value bets.
