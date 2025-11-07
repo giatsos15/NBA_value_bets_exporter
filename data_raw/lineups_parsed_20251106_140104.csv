@@ -1,0 +1,3 @@
+game_time,team,side,lineup_status,starters,may_not_play,may_not_play_count,lineup_confirmed,starter_1,starter_2,starter_3,starter_4,starter_5
+,LAC,AWAY,EXPECTED,"['Kris Dunn', 'Bradley Beal', 'Nicolas Batum', 'Derrick Jones', 'Ivica Zubac']","['J. Harden', 'K. Leonard', 'J. Miller', 'K. Sanders', 'Devin Booker', 'J. Green', ""Royce O'Neale"", 'Ryan Dunn', 'Mark Williams']",9,0,Kris Dunn,Bradley Beal,Nicolas Batum,Derrick Jones,Ivica Zubac
+,PHX,HOME,EXPECTED,"['Devin Booker', ""Royce O'Neale"", 'Ryan Dunn', 'Mark Williams', 'Devin Booker']","['J. Green', 'D. Brooks']",2,0,Devin Booker,Royce O'Neale,Ryan Dunn,Mark Williams,Devin Booker
