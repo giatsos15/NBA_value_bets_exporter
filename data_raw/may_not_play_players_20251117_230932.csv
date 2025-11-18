@@ -1,0 +1,60 @@
+game_time,team,side,position,player,status,title_text,likelihood_pct
+7:00 PM ET,IND,AWAY,F,A. Nesmith,Out,Very Unlikely To Play,0
+7:00 PM ET,IND,AWAY,G,J. Furphy,Out,Very Unlikely To Play,0
+7:00 PM ET,IND,AWAY,G,Kam Jones,Out,Very Unlikely To Play,0
+7:00 PM ET,IND,AWAY,F,Obi Toppin,Out,Very Unlikely To Play,0
+7:00 PM ET,IND,AWAY,G,Q. Jackson,Out,Very Unlikely To Play,0
+7:00 PM ET,IND,AWAY,G,T. Haliburton,OFS,Very Likely To Play,0
+7:00 PM ET,LAC,AWAY,G,B. Beal,OFS,Very Likely To Play,0
+7:00 PM ET,LAC,AWAY,F,D. Jones,Out,Very Unlikely To Play,0
+7:00 PM ET,LAC,AWAY,G,J. Miller,Out,Very Unlikely To Play,0
+7:00 PM ET,LAC,AWAY,F,K. Leonard,Out,Very Unlikely To Play,0
+7:00 PM ET,MIL,AWAY,G,K. Porter,Out,Very Unlikely To Play,0
+7:00 PM ET,MIL,AWAY,F,T. Prince,Out,Very Unlikely To Play,0
+7:00 PM ET,CLE,HOME,G,D. Garland,Out,Very Unlikely To Play,0
+7:00 PM ET,CLE,HOME,F,J. Tyson,Out,Very Unlikely To Play,0
+7:00 PM ET,CLE,HOME,F,Max Strus,Out,Very Unlikely To Play,0
+7:00 PM ET,DET,HOME,F,A. Thompson,Ques,Toss Up To Play,50
+7:00 PM ET,DET,HOME,F,B. Klintman,Out,Very Unlikely To Play,0
+7:00 PM ET,DET,HOME,G,C. Cunningham,Ques,Toss Up To Play,50
+7:00 PM ET,DET,HOME,C,J. Duren,Prob,Likely To Play,75
+7:00 PM ET,DET,HOME,G,Jaden Ivey,Out,Very Unlikely To Play,0
+7:00 PM ET,DET,HOME,G,M. Sasser,Out,Very Unlikely To Play,0
+7:00 PM ET,DET,HOME,F,T. Harris,Out,Very Unlikely To Play,0
+7:00 PM ET,PHI,HOME,C,Adem Bona,Out,Very Unlikely To Play,0
+7:00 PM ET,PHI,HOME,C,J. Embiid,Out,Very Unlikely To Play,0
+7:00 PM ET,PHI,HOME,F,K. Oubre,Out,Very Unlikely To Play,0
+7:00 PM ET,PHI,HOME,F,P. George,Prob,Likely To Play,75
+7:30 PM ET,CHA,AWAY,F,B. Miller,Out,Very Unlikely To Play,0
+7:30 PM ET,CHA,AWAY,F,G. Williams,Out,Very Unlikely To Play,0
+7:30 PM ET,CHA,AWAY,F,Josh Green,Out,Very Unlikely To Play,0
+7:30 PM ET,CHA,AWAY,F,L. McNeeley,Out,Very Unlikely To Play,0
+7:30 PM ET,NYK,AWAY,G,J. Brunson,Out,Very Unlikely To Play,0
+7:30 PM ET,NYK,AWAY,F,OG Anunoby,Out,Very Unlikely To Play,0
+7:30 PM ET,MIA,HOME,C,B. Adebayo,Out,Very Unlikely To Play,0
+7:30 PM ET,MIA,HOME,G,T. Herro,Out,Very Unlikely To Play,0
+7:30 PM ET,MIA,HOME,G,T. Rozier,Out,Very Unlikely To Play,0
+7:30 PM ET,TOR,HOME,F,O. Agbaji,Out,Very Unlikely To Play,0
+8:00 PM ET,DAL,AWAY,C,A. Davis,Out,Very Unlikely To Play,0
+8:00 PM ET,DAL,AWAY,C,D. Gafford,Out,Very Unlikely To Play,0
+8:00 PM ET,DAL,AWAY,C,D. Lively,Out,Very Unlikely To Play,0
+8:00 PM ET,DAL,AWAY,G,Dante Exum,Out,Very Unlikely To Play,0
+8:00 PM ET,DAL,AWAY,G,K. Irving,Out,Very Unlikely To Play,0
+8:00 PM ET,DAL,AWAY,G,R. Nembhard,Out,Very Unlikely To Play,0
+8:00 PM ET,OKC,AWAY,F,A. Wiggins,Out,Very Unlikely To Play,0
+8:00 PM ET,OKC,AWAY,F,J. Williams,Out,Very Unlikely To Play,0
+8:00 PM ET,OKC,AWAY,F,K. Williams,Out,Very Unlikely To Play,0
+8:00 PM ET,OKC,AWAY,G,N. Topic,Out,Very Unlikely To Play,0
+8:00 PM ET,OKC,AWAY,C,T. Sorber,OFS,Very Likely To Play,0
+8:00 PM ET,MIN,HOME,F,T. Shannon,Out,Very Unlikely To Play,0
+8:00 PM ET,NOP,HOME,G,D. Murray,Out,Very Unlikely To Play,0
+8:00 PM ET,NOP,HOME,G,J. Poole,Out,Very Unlikely To Play,0
+8:00 PM ET,NOP,HOME,F,Z. Williamson,Ques,Toss Up To Play,50
+9:00 PM ET,CHI,AWAY,G,A. Dosunmu,Prob,Likely To Play,75
+9:00 PM ET,CHI,AWAY,G,Coby White,Out,Very Unlikely To Play,0
+9:00 PM ET,CHI,AWAY,G,T. Jones,Doubt,Unlikely To Play,25
+9:00 PM ET,CHI,AWAY,C,Z. Collins,Out,Very Unlikely To Play,0
+9:00 PM ET,DEN,HOME,G,C. Braun,Out,Very Unlikely To Play,0
+9:00 PM ET,DEN,HOME,F,C. Johnson,Ques,Toss Up To Play,50
+9:00 PM ET,DEN,HOME,F,J. Strawther,Ques,Toss Up To Play,50
+9:00 PM ET,DEN,HOME,C,N. Jokic,Prob,Likely To Play,75

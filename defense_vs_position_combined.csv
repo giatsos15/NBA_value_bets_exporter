@@ -1,274 +1,274 @@
 id,name,l3,l5,l10,all,season_id,stats_id,position_id,stat_type,position
-1,Atlanta Hawks,20.50,17.17,17.50,17.50,25,4,1,PTS,G
-2,Boston Celtics,15.00,16.75,19.63,19.63,25,4,1,PTS,G
-3,Brooklyn Nets,21.40,17.67,18.79,18.79,25,4,1,PTS,G
-4,Charlotte Hornets,14.80,14.88,17.38,17.38,25,4,1,PTS,G
-5,Chicago Bulls,21.50,19.18,17.93,17.93,25,4,1,PTS,G
-6,Cleveland Cavaliers,18.33,16.78,17.64,17.64,25,4,1,PTS,G
-7,Dallas Mavericks,22.00,16.57,15.55,15.55,25,4,1,PTS,G
-8,Denver Nuggets,16.00,16.14,19.08,19.08,25,4,1,PTS,G
-9,Detroit Pistons,21.80,22.29,19.42,19.42,25,4,1,PTS,G
-10,Golden State Warriors,22.00,20.70,20.29,20.29,25,4,1,PTS,G
-11,Houston Rockets,14.67,14.75,16.00,16.00,25,4,1,PTS,G
-12,Indiana Pacers,14.83,15.33,19.00,19.00,25,4,1,PTS,G
-13,LA Clippers,20.00,20.50,18.55,18.55,25,4,1,PTS,G
-14,Los Angeles Lakers,11.75,11.00,16.07,16.07,25,4,1,PTS,G
-15,Memphis Grizzlies,20.25,21.80,21.08,21.08,25,4,1,PTS,G
-16,Miami Heat,21.80,20.88,21.18,21.18,25,4,1,PTS,G
-17,Milwaukee Bucks,22.33,24.33,20.55,20.55,25,4,1,PTS,G
-18,Minnesota Timberwolves,22.00,24.57,23.42,23.42,25,4,1,PTS,G
-19,New Orleans Pelicans,19.00,20.25,20.36,20.36,25,4,1,PTS,G
-20,New York Knicks,18.50,19.86,19.27,19.27,25,4,1,PTS,G
-21,Oklahoma City Thunder,16.00,15.86,15.31,15.31,25,4,1,PTS,G
-22,Orlando Magic,18.33,24.14,20.00,20.00,25,4,1,PTS,G
-23,Philadelphia 76ers,24.50,20.00,20.00,20.00,25,4,1,PTS,G
-24,Phoenix Suns,17.50,19.17,20.69,20.69,25,4,1,PTS,G
-25,Portland Trail Blazers,16.17,20.88,22.80,22.80,25,4,1,PTS,G
-26,Sacramento Kings,18.57,17.85,20.16,20.16,25,4,1,PTS,G
-27,San Antonio Spurs,21.60,21.25,20.40,20.40,25,4,1,PTS,G
-28,Toronto Raptors,14.50,16.80,16.27,16.27,25,4,1,PTS,G
-29,Utah Jazz,15.60,19.38,20.71,20.71,25,4,1,PTS,G
-30,Washington Wizards,15.33,21.63,20.75,20.75,25,4,1,PTS,G
-1,Atlanta Hawks,19.25,20.83,21.00,21.00,25,4,2,PTS,F
-2,Boston Celtics,18.33,18.00,15.92,15.92,25,4,2,PTS,F
-3,Brooklyn Nets,19.00,19.57,20.25,20.25,25,4,2,PTS,F
-4,Charlotte Hornets,21.00,21.67,21.40,21.40,25,4,2,PTS,F
-5,Chicago Bulls,20.00,20.20,18.86,18.86,25,4,2,PTS,F
-6,Cleveland Cavaliers,19.20,19.57,21.15,21.15,25,4,2,PTS,F
-7,Dallas Mavericks,15.29,16.09,18.94,18.94,25,4,2,PTS,F
-8,Denver Nuggets,17.50,17.82,16.73,16.73,25,4,2,PTS,F
-9,Detroit Pistons,17.00,18.71,20.42,20.42,25,4,2,PTS,F
-10,Golden State Warriors,18.50,17.38,18.86,18.86,25,4,2,PTS,F
-11,Houston Rockets,14.25,18.14,18.22,18.22,25,4,2,PTS,F
-12,Indiana Pacers,21.17,19.22,19.17,19.17,25,4,2,PTS,F
-13,LA Clippers,16.50,16.78,16.62,16.62,25,4,2,PTS,F
-14,Los Angeles Lakers,20.57,22.20,20.32,20.32,25,4,2,PTS,F
-15,Memphis Grizzlies,18.57,17.44,17.94,17.94,25,4,2,PTS,F
-16,Miami Heat,22.75,18.38,18.77,18.77,25,4,2,PTS,F
-17,Milwaukee Bucks,22.13,19.43,20.11,20.11,25,4,2,PTS,F
-18,Minnesota Timberwolves,17.17,17.33,18.57,18.57,25,4,2,PTS,F
-19,New Orleans Pelicans,16.60,19.00,17.36,17.36,25,4,2,PTS,F
-20,New York Knicks,18.50,20.67,19.50,19.50,25,4,2,PTS,F
-21,Oklahoma City Thunder,19.50,17.56,18.94,18.94,25,4,2,PTS,F
-22,Orlando Magic,16.50,18.60,18.22,18.22,25,4,2,PTS,F
-23,Philadelphia 76ers,13.50,18.40,20.30,20.30,25,4,2,PTS,F
-24,Phoenix Suns,11.00,14.67,19.92,19.92,25,4,2,PTS,F
-25,Portland Trail Blazers,15.50,15.88,17.64,17.64,25,4,2,PTS,F
-26,Sacramento Kings,21.60,22.50,20.90,20.90,25,4,2,PTS,F
-27,San Antonio Spurs,12.80,14.11,15.13,15.13,25,4,2,PTS,F
-28,Toronto Raptors,15.60,19.56,20.93,20.93,25,4,2,PTS,F
-29,Utah Jazz,21.00,18.80,16.71,16.71,25,4,2,PTS,F
-30,Washington Wizards,21.00,20.33,20.64,20.64,25,4,2,PTS,F
-1,Atlanta Hawks,12.50,15.00,14.00,14.00,25,4,3,PTS,C
-2,Boston Celtics,19.33,19.25,20.20,20.20,25,4,3,PTS,C
-3,Brooklyn Nets,15.00,16.00,16.60,16.60,25,4,3,PTS,C
-4,Charlotte Hornets,14.00,20.00,20.00,20.00,25,4,3,PTS,C
-5,Chicago Bulls,0.00,18.00,13.00,13.00,25,4,3,PTS,C
-6,Cleveland Cavaliers,13.00,13.00,12.00,12.00,25,4,3,PTS,C
-7,Dallas Mavericks,29.50,25.00,25.00,25.00,25,4,3,PTS,C
-8,Denver Nuggets,0.00,0.00,13.00,13.00,25,4,3,PTS,C
-9,Detroit Pistons,9.50,11.33,15.80,15.80,25,4,3,PTS,C
-10,Golden State Warriors,0.00,17.00,16.00,16.00,25,4,3,PTS,C
-11,Houston Rockets,0.00,0.00,6.00,6.00,25,4,3,PTS,C
-12,Indiana Pacers,13.50,15.00,12.80,12.80,25,4,3,PTS,C
-13,LA Clippers,25.00,25.00,23.50,23.50,25,4,3,PTS,C
-14,Los Angeles Lakers,17.00,13.00,9.33,9.33,25,4,3,PTS,C
-15,Memphis Grizzlies,20.00,20.00,21.00,21.00,25,4,3,PTS,C
-16,Miami Heat,19.00,16.75,15.20,15.20,25,4,3,PTS,C
-17,Milwaukee Bucks,0.00,0.00,23.00,23.00,25,4,3,PTS,C
-18,Minnesota Timberwolves,12.50,16.75,15.00,15.00,25,4,3,PTS,C
-19,New Orleans Pelicans,10.00,12.00,12.67,12.67,25,4,3,PTS,C
-20,New York Knicks,14.33,14.80,14.88,14.88,25,4,3,PTS,C
-21,Oklahoma City Thunder,0.00,0.00,18.00,18.00,25,4,3,PTS,C
-22,Orlando Magic,17.00,19.00,16.33,16.33,25,4,3,PTS,C
-23,Philadelphia 76ers,21.25,23.20,21.00,21.00,25,4,3,PTS,C
-24,Phoenix Suns,0.00,4.00,14.33,14.33,25,4,3,PTS,C
-25,Portland Trail Blazers,20.00,18.80,17.86,17.86,25,4,3,PTS,C
-26,Sacramento Kings,34.00,17.00,15.20,15.20,25,4,3,PTS,C
-27,San Antonio Spurs,26.50,26.50,22.67,22.67,25,4,3,PTS,C
-28,Toronto Raptors,29.00,23.50,17.25,17.25,25,4,3,PTS,C
-29,Utah Jazz,16.00,16.00,19.00,19.00,25,4,3,PTS,C
-30,Washington Wizards,16.00,16.00,13.50,13.50,25,4,3,PTS,C
-1,Atlanta Hawks,4.50,6.00,5.90,5.90,25,26,1,REB,G
-2,Boston Celtics,6.25,5.50,4.63,4.63,25,26,1,REB,G
-3,Brooklyn Nets,5.40,3.89,3.79,3.79,25,26,1,REB,G
-4,Charlotte Hornets,2.60,2.88,3.69,3.69,25,26,1,REB,G
-5,Chicago Bulls,4.67,4.18,4.20,4.20,25,26,1,REB,G
-6,Cleveland Cavaliers,3.83,4.00,3.43,3.43,25,26,1,REB,G
-7,Dallas Mavericks,5.67,5.14,4.82,4.82,25,26,1,REB,G
-8,Denver Nuggets,5.40,4.43,4.17,4.17,25,26,1,REB,G
-9,Detroit Pistons,4.40,4.00,4.33,4.33,25,26,1,REB,G
-10,Golden State Warriors,6.50,5.00,4.82,4.82,25,26,1,REB,G
-11,Houston Rockets,4.33,4.00,4.60,4.60,25,26,1,REB,G
-12,Indiana Pacers,2.17,3.00,4.07,4.07,25,26,1,REB,G
-13,LA Clippers,4.50,4.00,3.91,3.91,25,26,1,REB,G
-14,Los Angeles Lakers,2.75,2.86,3.33,3.33,25,26,1,REB,G
-15,Memphis Grizzlies,5.75,5.50,4.85,4.85,25,26,1,REB,G
-16,Miami Heat,7.60,7.63,6.82,6.82,25,26,1,REB,G
-17,Milwaukee Bucks,4.67,4.50,4.64,4.64,25,26,1,REB,G
-18,Minnesota Timberwolves,5.33,3.57,4.75,4.75,25,26,1,REB,G
-19,New Orleans Pelicans,2.33,3.00,3.73,3.73,25,26,1,REB,G
-20,New York Knicks,4.75,5.14,4.55,4.55,25,26,1,REB,G
-21,Oklahoma City Thunder,5.75,5.86,4.92,4.92,25,26,1,REB,G
-22,Orlando Magic,4.67,4.71,5.00,5.00,25,26,1,REB,G
-23,Philadelphia 76ers,5.33,4.36,4.33,4.33,25,26,1,REB,G
-24,Phoenix Suns,4.50,5.67,4.69,4.69,25,26,1,REB,G
-25,Portland Trail Blazers,5.33,4.75,5.10,5.10,25,26,1,REB,G
-26,Sacramento Kings,5.00,5.23,5.16,5.16,25,26,1,REB,G
-27,San Antonio Spurs,4.00,3.88,3.90,3.90,25,26,1,REB,G
-28,Toronto Raptors,1.50,4.00,3.73,3.73,25,26,1,REB,G
-29,Utah Jazz,3.80,4.50,3.93,3.93,25,26,1,REB,G
-30,Washington Wizards,1.33,3.00,3.67,3.67,25,26,1,REB,G
-1,Atlanta Hawks,7.25,7.17,6.90,6.90,25,26,2,REB,F
-2,Boston Celtics,5.00,6.00,6.77,6.77,25,26,2,REB,F
-3,Brooklyn Nets,6.00,6.14,6.75,6.75,25,26,2,REB,F
-4,Charlotte Hornets,5.20,5.11,4.70,4.70,25,26,2,REB,F
-5,Chicago Bulls,6.14,6.50,7.14,7.14,25,26,2,REB,F
-6,Cleveland Cavaliers,7.40,8.00,8.54,8.54,25,26,2,REB,F
-7,Dallas Mavericks,6.57,7.18,7.53,7.53,25,26,2,REB,F
-8,Denver Nuggets,5.38,5.45,5.47,5.47,25,26,2,REB,F
-9,Detroit Pistons,5.40,6.43,5.92,5.92,25,26,2,REB,F
-10,Golden State Warriors,5.00,5.38,5.50,5.50,25,26,2,REB,F
-11,Houston Rockets,8.00,5.86,6.22,6.22,25,26,2,REB,F
-12,Indiana Pacers,8.17,9.22,8.67,8.67,25,26,2,REB,F
-13,LA Clippers,3.25,4.44,4.38,4.38,25,26,2,REB,F
-14,Los Angeles Lakers,6.86,6.40,6.58,6.58,25,26,2,REB,F
-15,Memphis Grizzlies,6.71,5.89,6.25,6.25,25,26,2,REB,F
-16,Miami Heat,6.00,6.63,7.46,7.46,25,26,2,REB,F
-17,Milwaukee Bucks,7.88,8.21,7.74,7.74,25,26,2,REB,F
-18,Minnesota Timberwolves,6.83,6.33,6.64,6.64,25,26,2,REB,F
-19,New Orleans Pelicans,9.00,7.57,7.55,7.55,25,26,2,REB,F
-20,New York Knicks,5.25,4.83,4.70,4.70,25,26,2,REB,F
-21,Oklahoma City Thunder,6.33,7.11,7.50,7.50,25,26,2,REB,F
-22,Orlando Magic,5.50,6.80,6.44,6.44,25,26,2,REB,F
-23,Philadelphia 76ers,11.00,8.80,7.30,7.30,25,26,2,REB,F
-24,Phoenix Suns,6.25,5.78,6.42,6.42,25,26,2,REB,F
-25,Portland Trail Blazers,5.00,5.63,6.09,6.09,25,26,2,REB,F
-26,Sacramento Kings,6.60,6.33,5.60,5.60,25,26,2,REB,F
-27,San Antonio Spurs,5.60,4.67,6.47,6.47,25,26,2,REB,F
-28,Toronto Raptors,5.60,5.89,7.21,7.21,25,26,2,REB,F
-29,Utah Jazz,4.33,5.40,6.14,6.14,25,26,2,REB,F
-30,Washington Wizards,6.40,7.17,7.27,7.27,25,26,2,REB,F
-1,Atlanta Hawks,6.50,10.25,9.83,9.83,25,26,3,REB,C
-2,Boston Celtics,9.67,10.00,11.60,11.60,25,26,3,REB,C
-3,Brooklyn Nets,12.00,10.67,9.40,9.40,25,26,3,REB,C
-4,Charlotte Hornets,15.00,10.50,10.50,10.50,25,26,3,REB,C
-5,Chicago Bulls,0.00,10.00,11.50,11.50,25,26,3,REB,C
-6,Cleveland Cavaliers,13.00,13.00,9.33,9.33,25,26,3,REB,C
-7,Dallas Mavericks,10.50,11.00,11.00,11.00,25,26,3,REB,C
-8,Denver Nuggets,0.00,0.00,3.00,3.00,25,26,3,REB,C
-9,Detroit Pistons,11.00,11.00,10.80,10.80,25,26,3,REB,C
-10,Golden State Warriors,0.00,7.00,8.67,8.67,25,26,3,REB,C
-11,Houston Rockets,0.00,0.00,9.00,9.00,25,26,3,REB,C
-12,Indiana Pacers,8.50,7.67,11.00,11.00,25,26,3,REB,C
-13,LA Clippers,10.00,10.00,9.50,9.50,25,26,3,REB,C
-14,Los Angeles Lakers,8.00,7.00,7.00,7.00,25,26,3,REB,C
-15,Memphis Grizzlies,13.00,13.00,11.00,11.00,25,26,3,REB,C
-16,Miami Heat,12.67,11.00,10.40,10.40,25,26,3,REB,C
-17,Milwaukee Bucks,0.00,0.00,8.00,8.00,25,26,3,REB,C
-18,Minnesota Timberwolves,7.00,10.75,9.50,9.50,25,26,3,REB,C
-19,New Orleans Pelicans,11.00,11.00,11.33,11.33,25,26,3,REB,C
-20,New York Knicks,10.33,9.20,8.88,8.88,25,26,3,REB,C
-21,Oklahoma City Thunder,0.00,0.00,12.00,12.00,25,26,3,REB,C
-22,Orlando Magic,7.00,10.00,8.67,8.67,25,26,3,REB,C
-23,Philadelphia 76ers,8.00,8.60,8.83,8.83,25,26,3,REB,C
-24,Phoenix Suns,0.00,13.00,12.67,12.67,25,26,3,REB,C
-25,Portland Trail Blazers,11.67,11.00,9.86,9.86,25,26,3,REB,C
-26,Sacramento Kings,7.00,11.67,11.80,11.80,25,26,3,REB,C
-27,San Antonio Spurs,10.00,10.00,8.67,8.67,25,26,3,REB,C
-28,Toronto Raptors,8.00,8.00,6.75,6.75,25,26,3,REB,C
-29,Utah Jazz,14.00,14.00,13.00,13.00,25,26,3,REB,C
-30,Washington Wizards,12.00,12.00,10.00,10.00,25,26,3,REB,C
-1,Atlanta Hawks,3.00,4.83,5.40,5.40,25,5,1,AST,G
-2,Boston Celtics,4.75,5.88,5.19,5.19,25,5,1,AST,G
-3,Brooklyn Nets,6.20,4.78,4.86,4.86,25,5,1,AST,G
-4,Charlotte Hornets,5.00,4.88,5.15,5.15,25,5,1,AST,G
-5,Chicago Bulls,4.17,4.91,4.53,4.53,25,5,1,AST,G
-6,Cleveland Cavaliers,4.33,4.89,5.00,5.00,25,5,1,AST,G
-7,Dallas Mavericks,7.67,6.00,5.64,5.64,25,5,1,AST,G
-8,Denver Nuggets,8.20,7.29,6.08,6.08,25,5,1,AST,G
-9,Detroit Pistons,5.20,4.29,4.75,4.75,25,5,1,AST,G
-10,Golden State Warriors,6.50,5.10,5.94,5.94,25,5,1,AST,G
-11,Houston Rockets,8.67,8.25,6.20,6.20,25,5,1,AST,G
-12,Indiana Pacers,3.83,4.00,3.57,3.57,25,5,1,AST,G
-13,LA Clippers,8.00,7.00,6.27,6.27,25,5,1,AST,G
-14,Los Angeles Lakers,6.50,6.43,5.33,5.33,25,5,1,AST,G
-15,Memphis Grizzlies,4.75,4.50,4.31,4.31,25,5,1,AST,G
-16,Miami Heat,7.80,7.13,6.55,6.55,25,5,1,AST,G
-17,Milwaukee Bucks,6.33,4.50,4.09,4.09,25,5,1,AST,G
-18,Minnesota Timberwolves,7.00,6.29,6.33,6.33,25,5,1,AST,G
-19,New Orleans Pelicans,6.67,8.50,5.73,5.73,25,5,1,AST,G
-20,New York Knicks,6.50,6.71,5.73,5.73,25,5,1,AST,G
-21,Oklahoma City Thunder,3.75,3.57,4.31,4.31,25,5,1,AST,G
-22,Orlando Magic,7.00,6.86,6.50,6.50,25,5,1,AST,G
-23,Philadelphia 76ers,5.50,5.09,4.50,4.50,25,5,1,AST,G
-24,Phoenix Suns,3.75,5.17,5.15,5.15,25,5,1,AST,G
-25,Portland Trail Blazers,3.50,4.25,4.80,4.80,25,5,1,AST,G
-26,Sacramento Kings,4.86,4.92,5.32,5.32,25,5,1,AST,G
-27,San Antonio Spurs,7.60,6.00,5.40,5.40,25,5,1,AST,G
-28,Toronto Raptors,4.50,5.00,4.45,4.45,25,5,1,AST,G
-29,Utah Jazz,6.20,6.75,6.93,6.93,25,5,1,AST,G
-30,Washington Wizards,6.33,5.63,5.50,5.50,25,5,1,AST,G
-1,Atlanta Hawks,4.50,3.83,4.00,4.00,25,5,2,AST,F
-2,Boston Celtics,2.00,1.60,2.46,2.46,25,5,2,AST,F
-3,Brooklyn Nets,5.17,5.14,4.50,4.50,25,5,2,AST,F
-4,Charlotte Hornets,3.40,4.00,3.70,3.70,25,5,2,AST,F
-5,Chicago Bulls,4.71,4.70,4.29,4.29,25,5,2,AST,F
-6,Cleveland Cavaliers,3.80,3.57,3.69,3.69,25,5,2,AST,F
-7,Dallas Mavericks,2.43,2.55,2.65,2.65,25,5,2,AST,F
-8,Denver Nuggets,2.25,2.00,2.73,2.73,25,5,2,AST,F
-9,Detroit Pistons,2.40,3.00,2.58,2.58,25,5,2,AST,F
-10,Golden State Warriors,2.00,2.13,2.29,2.29,25,5,2,AST,F
-11,Houston Rockets,2.50,2.86,2.89,2.89,25,5,2,AST,F
-12,Indiana Pacers,3.17,3.67,3.50,3.50,25,5,2,AST,F
-13,LA Clippers,2.25,3.44,3.46,3.46,25,5,2,AST,F
-14,Los Angeles Lakers,2.29,2.40,3.37,3.37,25,5,2,AST,F
-15,Memphis Grizzlies,4.43,4.11,3.81,3.81,25,5,2,AST,F
-16,Miami Heat,2.50,2.63,2.69,2.69,25,5,2,AST,F
-17,Milwaukee Bucks,4.00,4.07,3.79,3.79,25,5,2,AST,F
-18,Minnesota Timberwolves,2.83,2.89,3.00,3.00,25,5,2,AST,F
-19,New Orleans Pelicans,2.00,2.29,2.45,2.45,25,5,2,AST,F
-20,New York Knicks,2.25,2.83,2.50,2.50,25,5,2,AST,F
-21,Oklahoma City Thunder,4.33,4.22,3.28,3.28,25,5,2,AST,F
-22,Orlando Magic,2.50,3.60,3.11,3.11,25,5,2,AST,F
-23,Philadelphia 76ers,1.50,3.80,4.00,4.00,25,5,2,AST,F
-24,Phoenix Suns,3.25,2.56,3.33,3.33,25,5,2,AST,F
-25,Portland Trail Blazers,2.25,2.50,2.91,2.91,25,5,2,AST,F
-26,Sacramento Kings,3.40,3.17,2.90,2.90,25,5,2,AST,F
-27,San Antonio Spurs,2.60,2.89,2.80,2.80,25,5,2,AST,F
-28,Toronto Raptors,3.20,3.44,4.14,4.14,25,5,2,AST,F
-29,Utah Jazz,3.83,3.70,3.79,3.79,25,5,2,AST,F
-30,Washington Wizards,3.40,3.00,3.09,3.09,25,5,2,AST,F
-1,Atlanta Hawks,3.00,4.00,3.33,3.33,25,5,3,AST,C
-2,Boston Celtics,5.00,4.75,4.00,4.00,25,5,3,AST,C
-3,Brooklyn Nets,1.00,3.00,3.60,3.60,25,5,3,AST,C
-4,Charlotte Hornets,5.00,3.50,3.50,3.50,25,5,3,AST,C
-5,Chicago Bulls,0.00,2.00,1.50,1.50,25,5,3,AST,C
-6,Cleveland Cavaliers,1.00,1.00,2.33,2.33,25,5,3,AST,C
-7,Dallas Mavericks,4.00,2.67,2.67,2.67,25,5,3,AST,C
-8,Denver Nuggets,0.00,0.00,2.00,2.00,25,5,3,AST,C
-9,Detroit Pistons,2.50,3.33,3.80,3.80,25,5,3,AST,C
-10,Golden State Warriors,0.00,3.00,4.33,4.33,25,5,3,AST,C
-11,Houston Rockets,0.00,0.00,5.00,5.00,25,5,3,AST,C
-12,Indiana Pacers,3.50,2.33,2.00,2.00,25,5,3,AST,C
-13,LA Clippers,4.00,4.00,4.00,4.00,25,5,3,AST,C
-14,Los Angeles Lakers,5.00,3.50,3.00,3.00,25,5,3,AST,C
-15,Memphis Grizzlies,4.67,4.67,4.50,4.50,25,5,3,AST,C
-16,Miami Heat,6.67,5.00,4.20,4.20,25,5,3,AST,C
-17,Milwaukee Bucks,0.00,0.00,6.00,6.00,25,5,3,AST,C
-18,Minnesota Timberwolves,3.50,5.00,3.50,3.50,25,5,3,AST,C
-19,New Orleans Pelicans,2.00,1.50,2.33,2.33,25,5,3,AST,C
-20,New York Knicks,3.67,3.20,2.88,2.88,25,5,3,AST,C
-21,Oklahoma City Thunder,0.00,0.00,4.67,4.67,25,5,3,AST,C
-22,Orlando Magic,0.00,1.00,2.00,2.00,25,5,3,AST,C
-23,Philadelphia 76ers,2.25,2.80,2.67,2.67,25,5,3,AST,C
-24,Phoenix Suns,0.00,1.00,6.67,6.67,25,5,3,AST,C
-25,Portland Trail Blazers,4.67,4.00,3.29,3.29,25,5,3,AST,C
-26,Sacramento Kings,14.00,8.00,5.60,5.60,25,5,3,AST,C
-27,San Antonio Spurs,1.50,1.50,1.33,1.33,25,5,3,AST,C
-28,Toronto Raptors,3.00,6.00,3.75,3.75,25,5,3,AST,C
-29,Utah Jazz,2.00,2.00,1.33,1.33,25,5,3,AST,C
-30,Washington Wizards,0.00,0.00,2.50,2.50,25,5,3,AST,C
+1,Atlanta Hawks,20.67,21.25,19.92,19.11,25,4,1,PTS,G
+2,Boston Celtics,16.00,16.00,16.35,18.32,25,4,1,PTS,G
+3,Brooklyn Nets,18.50,19.14,18.31,18.90,25,4,1,PTS,G
+4,Charlotte Hornets,18.40,19.40,17.47,17.88,25,4,1,PTS,G
+5,Chicago Bulls,20.57,20.91,20.33,18.75,25,4,1,PTS,G
+6,Cleveland Cavaliers,18.25,16.67,16.67,16.81,25,4,1,PTS,G
+7,Dallas Mavericks,24.00,22.22,21.40,18.52,25,4,1,PTS,G
+8,Denver Nuggets,20.25,17.63,17.29,18.50,25,4,1,PTS,G
+9,Detroit Pistons,14.71,17.75,18.56,18.58,25,4,1,PTS,G
+10,Golden State Warriors,16.50,17.60,18.95,19.17,25,4,1,PTS,G
+11,Houston Rockets,17.20,15.89,15.54,15.95,25,4,1,PTS,G
+12,Indiana Pacers,23.20,21.67,18.43,19.80,25,4,1,PTS,G
+13,LA Clippers,23.14,21.10,20.50,19.57,25,4,1,PTS,G
+14,Los Angeles Lakers,23.33,18.80,14.25,16.75,25,4,1,PTS,G
+15,Memphis Grizzlies,23.50,21.75,21.78,21.33,25,4,1,PTS,G
+16,Miami Heat,18.63,18.23,19.24,19.60,25,4,1,PTS,G
+17,Milwaukee Bucks,24.20,21.13,19.93,19.91,25,4,1,PTS,G
+18,Minnesota Timberwolves,19.60,18.33,19.57,21.24,25,4,1,PTS,G
+19,New Orleans Pelicans,17.83,19.88,19.60,19.86,25,4,1,PTS,G
+20,New York Knicks,17.00,16.75,18.73,18.60,25,4,1,PTS,G
+21,Oklahoma City Thunder,15.00,14.00,15.30,15.16,25,4,1,PTS,G
+22,Orlando Magic,17.75,17.63,18.93,19.33,25,4,1,PTS,G
+23,Philadelphia 76ers,17.57,17.64,18.82,19.10,25,4,1,PTS,G
+24,Phoenix Suns,17.67,15.56,17.00,18.59,25,4,1,PTS,G
+25,Portland Trail Blazers,16.00,15.60,18.85,20.40,25,4,1,PTS,G
+26,Sacramento Kings,23.50,20.38,19.05,20.48,25,4,1,PTS,G
+27,San Antonio Spurs,23.29,22.18,21.17,21.00,25,4,1,PTS,G
+28,Toronto Raptors,26.50,20.80,17.80,17.22,25,4,1,PTS,G
+29,Utah Jazz,17.86,19.33,19.35,20.17,25,4,1,PTS,G
+30,Washington Wizards,20.33,19.25,20.44,20.15,25,4,1,PTS,G
+1,Atlanta Hawks,30.50,18.60,19.62,19.78,25,4,2,PTS,F
+2,Boston Celtics,14.50,19.83,19.00,17.16,25,4,2,PTS,F
+3,Brooklyn Nets,21.50,21.38,20.53,20.70,25,4,2,PTS,F
+4,Charlotte Hornets,23.00,20.88,20.76,21.05,25,4,2,PTS,F
+5,Chicago Bulls,22.00,24.88,22.53,21.46,25,4,2,PTS,F
+6,Cleveland Cavaliers,21.67,22.00,21.00,21.50,25,4,2,PTS,F
+7,Dallas Mavericks,17.40,20.43,17.33,18.82,25,4,2,PTS,F
+8,Denver Nuggets,18.00,17.20,16.60,16.81,25,4,2,PTS,F
+9,Detroit Pistons,17.00,16.43,18.31,19.38,25,4,2,PTS,F
+10,Golden State Warriors,16.83,15.63,16.40,17.68,25,4,2,PTS,F
+11,Houston Rockets,18.17,20.45,19.56,19.45,25,4,2,PTS,F
+12,Indiana Pacers,15.50,19.67,20.54,19.33,25,4,2,PTS,F
+13,LA Clippers,20.75,18.29,17.53,16.95,25,4,2,PTS,F
+14,Los Angeles Lakers,22.75,21.71,22.00,20.69,25,4,2,PTS,F
+15,Memphis Grizzlies,17.00,17.80,17.57,17.90,25,4,2,PTS,F
+16,Miami Heat,24.00,23.63,20.72,20.29,25,4,2,PTS,F
+17,Milwaukee Bucks,19.00,17.89,20.25,19.68,25,4,2,PTS,F
+18,Minnesota Timberwolves,16.40,17.44,17.88,18.13,25,4,2,PTS,F
+19,New Orleans Pelicans,22.50,22.50,20.43,19.11,25,4,2,PTS,F
+20,New York Knicks,20.29,18.50,19.22,18.95,25,4,2,PTS,F
+21,Oklahoma City Thunder,15.33,14.67,16.79,17.88,25,4,2,PTS,F
+22,Orlando Magic,16.14,17.45,18.25,18.48,25,4,2,PTS,F
+23,Philadelphia 76ers,16.00,16.57,17.33,18.76,25,4,2,PTS,F
+24,Phoenix Suns,20.00,17.43,15.88,19.00,25,4,2,PTS,F
+25,Portland Trail Blazers,21.67,21.42,19.20,19.61,25,4,2,PTS,F
+26,Sacramento Kings,19.67,19.00,21.10,20.36,25,4,2,PTS,F
+27,San Antonio Spurs,17.17,18.78,16.89,16.80,25,4,2,PTS,F
+28,Toronto Raptors,21.00,20.25,19.44,20.36,25,4,2,PTS,F
+29,Utah Jazz,23.25,22.67,20.25,18.50,25,4,2,PTS,F
+30,Washington Wizards,19.40,19.13,19.64,20.00,25,4,2,PTS,F
+1,Atlanta Hawks,9.00,10.33,12.33,12.78,25,4,3,PTS,C
+2,Boston Celtics,15.00,15.00,17.13,17.89,25,4,3,PTS,C
+3,Brooklyn Nets,9.50,16.33,16.17,16.50,25,4,3,PTS,C
+4,Charlotte Hornets,14.33,15.60,14.14,15.63,25,4,3,PTS,C
+5,Chicago Bulls,20.00,21.33,21.75,18.83,25,4,3,PTS,C
+6,Cleveland Cavaliers,17.50,16.33,15.17,14.25,25,4,3,PTS,C
+7,Dallas Mavericks,21.00,21.00,21.50,20.71,25,4,3,PTS,C
+8,Denver Nuggets,15.00,15.00,15.00,14.50,25,4,3,PTS,C
+9,Detroit Pistons,12.00,14.67,13.33,15.56,25,4,3,PTS,C
+10,Golden State Warriors,0.00,9.00,17.33,16.60,25,4,3,PTS,C
+11,Houston Rockets,20.00,17.67,17.67,14.75,25,4,3,PTS,C
+12,Indiana Pacers,31.00,21.00,20.20,17.25,25,4,3,PTS,C
+13,LA Clippers,14.00,27.67,25.40,24.83,25,4,3,PTS,C
+14,Los Angeles Lakers,6.00,11.25,11.83,10.43,25,4,3,PTS,C
+15,Memphis Grizzlies,22.00,20.00,20.00,20.67,25,4,3,PTS,C
+16,Miami Heat,0.00,21.00,19.50,16.17,25,4,3,PTS,C
+17,Milwaukee Bucks,17.00,17.00,18.25,19.20,25,4,3,PTS,C
+18,Minnesota Timberwolves,27.00,27.00,17.25,16.71,25,4,3,PTS,C
+19,New Orleans Pelicans,20.00,20.00,14.67,14.50,25,4,3,PTS,C
+20,New York Knicks,14.67,14.67,14.75,14.82,25,4,3,PTS,C
+21,Oklahoma City Thunder,0.00,0.00,0.00,18.00,25,4,3,PTS,C
+22,Orlando Magic,21.50,15.00,14.67,14.80,25,4,3,PTS,C
+23,Philadelphia 76ers,11.00,14.33,19.88,18.78,25,4,3,PTS,C
+24,Phoenix Suns,27.00,24.00,17.33,18.20,25,4,3,PTS,C
+25,Portland Trail Blazers,23.67,22.50,20.44,19.55,25,4,3,PTS,C
+26,Sacramento Kings,11.00,21.67,24.17,19.33,25,4,3,PTS,C
+27,San Antonio Spurs,0.00,11.00,22.25,20.80,25,4,3,PTS,C
+28,Toronto Raptors,7.00,10.50,14.83,13.88,25,4,3,PTS,C
+29,Utah Jazz,26.50,16.40,16.29,17.38,25,4,3,PTS,C
+30,Washington Wizards,18.00,18.00,17.33,15.75,25,4,3,PTS,C
+1,Atlanta Hawks,4.50,4.88,4.62,5.42,25,26,1,REB,G
+2,Boston Celtics,4.20,4.89,5.18,4.72,25,26,1,REB,G
+3,Brooklyn Nets,5.50,3.43,3.69,3.67,25,26,1,REB,G
+4,Charlotte Hornets,6.00,5.00,4.06,4.29,25,26,1,REB,G
+5,Chicago Bulls,3.86,4.45,4.38,4.36,25,26,1,REB,G
+6,Cleveland Cavaliers,2.25,2.33,3.67,3.50,25,26,1,REB,G
+7,Dallas Mavericks,5.40,4.56,4.80,4.70,25,26,1,REB,G
+8,Denver Nuggets,8.75,6.00,5.43,4.90,25,26,1,REB,G
+9,Detroit Pistons,3.71,4.50,4.50,4.42,25,26,1,REB,G
+10,Golden State Warriors,5.50,4.40,4.81,4.72,25,26,1,REB,G
+11,Houston Rockets,4.20,3.78,3.85,4.21,25,26,1,REB,G
+12,Indiana Pacers,2.60,3.17,3.14,3.80,25,26,1,REB,G
+13,LA Clippers,4.86,4.50,4.39,4.26,25,26,1,REB,G
+14,Los Angeles Lakers,3.67,4.20,3.42,3.55,25,26,1,REB,G
+15,Memphis Grizzlies,5.00,4.75,5.17,4.81,25,26,1,REB,G
+16,Miami Heat,4.75,6.31,6.86,6.64,25,26,1,REB,G
+17,Milwaukee Bucks,6.60,6.13,5.53,5.22,25,26,1,REB,G
+18,Minnesota Timberwolves,6.20,5.22,4.64,4.95,25,26,1,REB,G
+19,New Orleans Pelicans,4.17,4.25,3.67,3.82,25,26,1,REB,G
+20,New York Knicks,4.33,4.00,4.73,4.40,25,26,1,REB,G
+21,Oklahoma City Thunder,5.33,4.75,5.00,4.79,25,26,1,REB,G
+22,Orlando Magic,5.00,4.75,4.47,4.67,25,26,1,REB,G
+23,Philadelphia 76ers,4.71,4.18,4.27,4.28,25,26,1,REB,G
+24,Phoenix Suns,4.33,3.33,4.27,4.14,25,26,1,REB,G
+25,Portland Trail Blazers,3.00,3.20,4.15,4.47,25,26,1,REB,G
+26,Sacramento Kings,3.75,3.38,4.05,4.52,25,26,1,REB,G
+27,San Antonio Spurs,5.00,4.73,4.56,4.45,25,26,1,REB,G
+28,Toronto Raptors,5.00,4.80,4.60,4.17,25,26,1,REB,G
+29,Utah Jazz,5.00,4.67,4.59,4.22,25,26,1,REB,G
+30,Washington Wizards,7.00,6.38,4.69,4.75,25,26,1,REB,G
+1,Atlanta Hawks,6.00,7.80,7.54,7.17,25,26,2,REB,F
+2,Boston Celtics,4.50,6.50,6.27,6.68,25,26,2,REB,F
+3,Brooklyn Nets,6.83,7.38,6.80,7.00,25,26,2,REB,F
+4,Charlotte Hornets,6.67,5.75,5.76,5.25,25,26,2,REB,F
+5,Chicago Bulls,7.17,7.38,7.42,7.58,25,26,2,REB,F
+6,Cleveland Cavaliers,6.67,5.67,6.29,7.36,25,26,2,REB,F
+7,Dallas Mavericks,6.00,6.14,5.56,6.50,25,26,2,REB,F
+8,Denver Nuggets,4.67,4.20,4.93,5.05,25,26,2,REB,F
+9,Detroit Pistons,8.00,6.14,5.88,5.71,25,26,2,REB,F
+10,Golden State Warriors,8.00,7.00,6.27,6.05,25,26,2,REB,F
+11,Houston Rockets,5.50,5.64,5.72,5.90,25,26,2,REB,F
+12,Indiana Pacers,7.00,6.67,7.85,8.00,25,26,2,REB,F
+13,LA Clippers,8.50,7.71,5.93,5.62,25,26,2,REB,F
+14,Los Angeles Lakers,7.25,7.14,6.71,6.73,25,26,2,REB,F
+15,Memphis Grizzlies,6.75,6.80,6.21,6.38,25,26,2,REB,F
+16,Miami Heat,8.00,7.75,7.39,7.54,25,26,2,REB,F
+17,Milwaukee Bucks,6.80,6.33,7.00,7.23,25,26,2,REB,F
+18,Minnesota Timberwolves,6.60,7.44,7.12,6.96,25,26,2,REB,F
+19,New Orleans Pelicans,5.00,4.00,6.79,6.94,25,26,2,REB,F
+20,New York Knicks,5.14,4.83,4.83,4.77,25,26,2,REB,F
+21,Oklahoma City Thunder,5.00,6.83,6.50,7.24,25,26,2,REB,F
+22,Orlando Magic,6.43,5.55,5.88,6.10,25,26,2,REB,F
+23,Philadelphia 76ers,6.50,5.43,6.83,6.53,25,26,2,REB,F
+24,Phoenix Suns,7.00,6.29,6.00,6.37,25,26,2,REB,F
+25,Portland Trail Blazers,5.33,6.33,6.05,6.22,25,26,2,REB,F
+26,Sacramento Kings,5.67,6.00,6.20,5.71,25,26,2,REB,F
+27,San Antonio Spurs,6.67,6.00,5.06,6.08,25,26,2,REB,F
+28,Toronto Raptors,6.75,7.75,6.61,7.28,25,26,2,REB,F
+29,Utah Jazz,8.25,7.83,6.31,6.65,25,26,2,REB,F
+30,Washington Wizards,6.00,6.88,7.00,7.11,25,26,2,REB,F
+1,Atlanta Hawks,7.00,8.67,8.33,9.44,25,26,3,REB,C
+2,Boston Celtics,12.50,8.50,9.25,10.22,25,26,3,REB,C
+3,Brooklyn Nets,7.50,8.67,9.67,9.13,25,26,3,REB,C
+4,Charlotte Hornets,7.67,6.40,7.57,7.38,25,26,3,REB,C
+5,Chicago Bulls,16.00,13.33,12.00,11.83,25,26,3,REB,C
+6,Cleveland Cavaliers,7.00,11.33,9.33,8.88,25,26,3,REB,C
+7,Dallas Mavericks,10.00,10.00,9.00,9.43,25,26,3,REB,C
+8,Denver Nuggets,8.00,8.00,8.00,6.75,25,26,3,REB,C
+9,Detroit Pistons,11.00,12.67,11.33,11.11,25,26,3,REB,C
+10,Golden State Warriors,0.00,12.00,9.33,9.40,25,26,3,REB,C
+11,Houston Rockets,8.50,7.67,7.67,8.00,25,26,3,REB,C
+12,Indiana Pacers,15.00,13.00,11.40,11.88,25,26,3,REB,C
+13,LA Clippers,13.50,13.00,11.00,10.67,25,26,3,REB,C
+14,Los Angeles Lakers,9.00,8.25,7.83,7.71,25,26,3,REB,C
+15,Memphis Grizzlies,13.00,13.00,13.00,11.67,25,26,3,REB,C
+16,Miami Heat,0.00,10.00,12.00,10.33,25,26,3,REB,C
+17,Milwaukee Bucks,8.00,8.00,8.25,8.20,25,26,3,REB,C
+18,Minnesota Timberwolves,11.00,11.00,8.75,9.71,25,26,3,REB,C
+19,New Orleans Pelicans,16.00,16.00,12.67,12.50,25,26,3,REB,C
+20,New York Knicks,10.67,10.67,9.75,9.36,25,26,3,REB,C
+21,Oklahoma City Thunder,0.00,0.00,0.00,12.00,25,26,3,REB,C
+22,Orlando Magic,8.50,8.67,9.00,8.60,25,26,3,REB,C
+23,Philadelphia 76ers,11.50,13.00,10.25,10.22,25,26,3,REB,C
+24,Phoenix Suns,4.00,9.50,10.67,11.40,25,26,3,REB,C
+25,Portland Trail Blazers,7.67,8.00,9.67,9.18,25,26,3,REB,C
+26,Sacramento Kings,8.00,11.67,12.50,12.56,25,26,3,REB,C
+27,San Antonio Spurs,0.00,8.00,9.25,8.60,25,26,3,REB,C
+28,Toronto Raptors,8.33,8.25,8.17,7.50,25,26,3,REB,C
+29,Utah Jazz,12.00,10.00,11.14,11.13,25,26,3,REB,C
+30,Washington Wizards,11.00,11.00,11.33,10.50,25,26,3,REB,C
+1,Atlanta Hawks,4.67,4.88,4.62,5.21,25,5,1,AST,G
+2,Boston Celtics,5.20,5.22,5.53,5.20,25,5,1,AST,G
+3,Brooklyn Nets,4.00,5.86,5.25,5.19,25,5,1,AST,G
+4,Charlotte Hornets,4.40,5.20,4.94,5.17,25,5,1,AST,G
+5,Chicago Bulls,5.00,5.45,4.81,4.89,25,5,1,AST,G
+6,Cleveland Cavaliers,3.75,4.50,4.50,4.81,25,5,1,AST,G
+7,Dallas Mavericks,5.60,5.78,6.13,5.70,25,5,1,AST,G
+8,Denver Nuggets,4.50,5.00,6.21,5.65,25,5,1,AST,G
+9,Detroit Pistons,3.57,3.92,4.17,4.33,25,5,1,AST,G
+10,Golden State Warriors,5.67,5.70,5.67,5.86,25,5,1,AST,G
+11,Houston Rockets,4.00,4.67,5.77,5.47,25,5,1,AST,G
+12,Indiana Pacers,5.40,4.67,4.29,3.90,25,5,1,AST,G
+13,LA Clippers,4.43,4.50,5.50,5.48,25,5,1,AST,G
+14,Los Angeles Lakers,5.67,7.40,6.83,5.85,25,5,1,AST,G
+15,Memphis Grizzlies,8.00,5.50,4.94,4.76,25,5,1,AST,G
+16,Miami Heat,5.25,5.15,5.81,5.84,25,5,1,AST,G
+17,Milwaukee Bucks,5.80,5.38,5.80,4.91,25,5,1,AST,G
+18,Minnesota Timberwolves,7.20,5.33,6.14,5.90,25,5,1,AST,G
+19,New Orleans Pelicans,6.50,6.75,7.00,6.09,25,5,1,AST,G
+20,New York Knicks,8.00,8.50,7.36,6.47,25,5,1,AST,G
+21,Oklahoma City Thunder,4.33,5.25,4.70,4.63,25,5,1,AST,G
+22,Orlando Magic,2.50,3.38,4.93,5.50,25,5,1,AST,G
+23,Philadelphia 76ers,4.29,4.55,4.82,4.52,25,5,1,AST,G
+24,Phoenix Suns,7.00,6.56,6.00,5.73,25,5,1,AST,G
+25,Portland Trail Blazers,4.67,4.60,4.38,4.73,25,5,1,AST,G
+26,Sacramento Kings,6.75,5.63,5.55,5.48,25,5,1,AST,G
+27,San Antonio Spurs,3.86,4.27,5.28,4.73,25,5,1,AST,G
+28,Toronto Raptors,5.50,5.20,5.30,4.78,25,5,1,AST,G
+29,Utah Jazz,5.86,5.44,6.06,6.35,25,5,1,AST,G
+30,Washington Wizards,5.00,5.13,5.38,5.35,25,5,1,AST,G
+1,Atlanta Hawks,2.50,1.80,3.15,3.39,25,5,2,AST,F
+2,Boston Celtics,0.00,2.83,2.27,2.58,25,5,2,AST,F
+3,Brooklyn Nets,4.33,4.00,4.53,4.30,25,5,2,AST,F
+4,Charlotte Hornets,6.17,5.25,4.94,4.60,25,5,2,AST,F
+5,Chicago Bulls,2.17,2.50,3.89,3.75,25,5,2,AST,F
+6,Cleveland Cavaliers,4.67,4.78,4.43,4.14,25,5,2,AST,F
+7,Dallas Mavericks,2.80,3.14,2.44,2.57,25,5,2,AST,F
+8,Denver Nuggets,4.00,3.80,2.67,3.00,25,5,2,AST,F
+9,Detroit Pistons,2.00,2.57,2.69,2.52,25,5,2,AST,F
+10,Golden State Warriors,3.17,3.00,2.67,2.55,25,5,2,AST,F
+11,Houston Rockets,3.67,3.00,2.94,2.95,25,5,2,AST,F
+12,Indiana Pacers,3.50,3.83,3.85,3.61,25,5,2,AST,F
+13,LA Clippers,2.00,2.29,2.87,3.14,25,5,2,AST,F
+14,Los Angeles Lakers,3.75,4.29,3.18,3.62,25,5,2,AST,F
+15,Memphis Grizzlies,3.75,3.40,3.86,3.71,25,5,2,AST,F
+16,Miami Heat,3.40,3.75,3.39,3.17,25,5,2,AST,F
+17,Milwaukee Bucks,2.00,2.44,3.25,3.39,25,5,2,AST,F
+18,Minnesota Timberwolves,2.00,2.00,2.41,2.61,25,5,2,AST,F
+19,New Orleans Pelicans,2.50,2.83,2.57,2.61,25,5,2,AST,F
+20,New York Knicks,3.57,3.42,3.22,3.00,25,5,2,AST,F
+21,Oklahoma City Thunder,2.00,2.67,3.64,3.12,25,5,2,AST,F
+22,Orlando Magic,2.86,3.00,3.13,3.05,25,5,2,AST,F
+23,Philadelphia 76ers,3.00,3.71,3.75,3.88,25,5,2,AST,F
+24,Phoenix Suns,5.00,3.57,3.00,3.42,25,5,2,AST,F
+25,Portland Trail Blazers,3.83,4.08,3.45,3.52,25,5,2,AST,F
+26,Sacramento Kings,3.67,3.50,3.30,3.07,25,5,2,AST,F
+27,San Antonio Spurs,4.50,4.22,3.44,3.28,25,5,2,AST,F
+28,Toronto Raptors,2.25,3.25,3.06,3.64,25,5,2,AST,F
+29,Utah Jazz,6.50,6.00,4.56,4.45,25,5,2,AST,F
+30,Washington Wizards,3.00,3.50,3.29,3.26,25,5,2,AST,F
+1,Atlanta Hawks,4.50,3.33,2.83,3.33,25,5,3,AST,C
+2,Boston Celtics,1.00,1.00,2.88,2.67,25,5,3,AST,C
+3,Brooklyn Nets,2.50,1.67,2.33,2.88,25,5,3,AST,C
+4,Charlotte Hornets,2.33,1.80,2.00,2.00,25,5,3,AST,C
+5,Chicago Bulls,9.00,7.67,5.75,4.33,25,5,3,AST,C
+6,Cleveland Cavaliers,2.50,2.00,2.50,2.63,25,5,3,AST,C
+7,Dallas Mavericks,3.00,3.00,3.67,3.14,25,5,3,AST,C
+8,Denver Nuggets,3.33,3.33,3.33,3.00,25,5,3,AST,C
+9,Detroit Pistons,2.00,2.00,2.17,3.00,25,5,3,AST,C
+10,Golden State Warriors,0.00,1.00,4.33,4.60,25,5,3,AST,C
+11,Houston Rockets,3.00,2.33,2.33,3.00,25,5,3,AST,C
+12,Indiana Pacers,3.00,3.50,5.60,3.88,25,5,3,AST,C
+13,LA Clippers,1.50,3.00,2.60,2.83,25,5,3,AST,C
+14,Los Angeles Lakers,3.00,4.25,4.00,3.71,25,5,3,AST,C
+15,Memphis Grizzlies,4.00,3.00,4.00,4.00,25,5,3,AST,C
+16,Miami Heat,0.00,5.00,6.25,4.33,25,5,3,AST,C
+17,Milwaukee Bucks,3.00,3.00,3.50,4.00,25,5,3,AST,C
+18,Minnesota Timberwolves,10.00,10.00,5.00,4.43,25,5,3,AST,C
+19,New Orleans Pelicans,2.00,2.00,1.67,2.25,25,5,3,AST,C
+20,New York Knicks,1.33,1.33,2.50,2.45,25,5,3,AST,C
+21,Oklahoma City Thunder,0.00,0.00,0.00,4.67,25,5,3,AST,C
+22,Orlando Magic,5.50,3.67,2.50,2.50,25,5,3,AST,C
+23,Philadelphia 76ers,1.50,1.33,2.25,2.22,25,5,3,AST,C
+24,Phoenix Suns,5.00,4.50,3.33,5.80,25,5,3,AST,C
+25,Portland Trail Blazers,5.00,5.00,4.44,3.91,25,5,3,AST,C
+26,Sacramento Kings,1.00,3.00,5.50,4.44,25,5,3,AST,C
+27,San Antonio Spurs,0.00,6.00,4.25,3.60,25,5,3,AST,C
+28,Toronto Raptors,1.00,1.75,3.17,2.75,25,5,3,AST,C
+29,Utah Jazz,2.00,2.00,2.00,1.75,25,5,3,AST,C
+30,Washington Wizards,5.00,5.00,3.33,3.75,25,5,3,AST,C
 1,Atlanta Hawks,13.71,17.08,17.27,18.91,19,4,1,PTS,G
 2,Boston Celtics,7.40,11.50,14.62,18.39,19,4,1,PTS,G
 3,Brooklyn Nets,18.33,17.00,17.07,18.24,19,4,1,PTS,G

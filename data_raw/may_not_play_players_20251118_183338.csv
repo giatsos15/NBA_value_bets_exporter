@@ -1,0 +1,44 @@
+game_time,team,side,position,player,status,title_text,likelihood_pct
+10:30 PM ET,UTA,AWAY,F,G. Niang,Out,Very Unlikely To Play,0
+10:30 PM ET,UTA,AWAY,F,K. Anderson,Ques,Toss Up To Play,50
+10:30 PM ET,UTA,AWAY,C,K. Filipowski,Ques,Toss Up To Play,50
+10:30 PM ET,UTA,AWAY,F,T. Hendricks,Ques,Toss Up To Play,50
+10:30 PM ET,UTA,AWAY,C,W. Kessler,OFS,Very Likely To Play,0
+10:30 PM ET,LAL,HOME,G,G. Vincent,Ques,Toss Up To Play,50
+10:30 PM ET,LAL,HOME,F,L. James,Ques,Toss Up To Play,50
+11:00 PM ET,PHX,AWAY,G,G. Allen,Out,Very Unlikely To Play,0
+11:00 PM ET,PHX,AWAY,G,J. Green,Out,Very Unlikely To Play,0
+11:00 PM ET,POR,HOME,G,B. Wesley,Out,Very Unlikely To Play,0
+11:00 PM ET,POR,HOME,G,D. Lillard,OFS,Very Likely To Play,0
+11:00 PM ET,POR,HOME,G,J. Holiday,Doubt,Unlikely To Play,25
+11:00 PM ET,POR,HOME,F,M. Thybulle,Out,Very Unlikely To Play,0
+11:00 PM ET,POR,HOME,G,S. Henderson,Out,Very Unlikely To Play,0
+7:00 PM ET,GSW,AWAY,G,B. Hield,Prob,Likely To Play,75
+7:00 PM ET,GSW,AWAY,G,D. Melton,Out,Very Unlikely To Play,0
+7:00 PM ET,GSW,AWAY,F,J. Kuminga,Out,Very Unlikely To Play,0
+7:00 PM ET,ORL,HOME,G,J. Suggs,Ques,Toss Up To Play,50
+7:00 PM ET,ORL,HOME,C,M. Wagner,Out,Very Unlikely To Play,0
+7:00 PM ET,ORL,HOME,F,P. Banchero,Out,Very Unlikely To Play,0
+7:30 PM ET,BOS,AWAY,F,J. Tatum,Out,Very Unlikely To Play,0
+7:30 PM ET,DET,AWAY,F,A. Thompson,Ques,Toss Up To Play,50
+7:30 PM ET,DET,AWAY,F,B. Klintman,Out,Very Unlikely To Play,0
+7:30 PM ET,DET,AWAY,G,C. Cunningham,Ques,Toss Up To Play,50
+7:30 PM ET,DET,AWAY,G,Jaden Ivey,Out,Very Unlikely To Play,0
+7:30 PM ET,DET,AWAY,G,M. Sasser,Out,Very Unlikely To Play,0
+7:30 PM ET,DET,AWAY,F,T. Harris,Ques,Toss Up To Play,50
+7:30 PM ET,ATL,HOME,C,K. Porzingis,Ques,Toss Up To Play,50
+7:30 PM ET,ATL,HOME,C,O. Okongwu,Ques,Toss Up To Play,50
+7:30 PM ET,ATL,HOME,G,Trae Young,Out,Very Unlikely To Play,0
+7:30 PM ET,ATL,HOME,F,Z. Risacher,Ques,Toss Up To Play,50
+7:30 PM ET,BKN,HOME,G,Ben Saraf,Out,Very Unlikely To Play,0
+7:30 PM ET,BKN,HOME,G,Cam Thomas,Out,Very Unlikely To Play,0
+7:30 PM ET,BKN,HOME,F,H. Highsmith,Out,Very Unlikely To Play,0
+8:00 PM ET,MEM,AWAY,C,B. Clarke,Out,Very Unlikely To Play,0
+8:00 PM ET,MEM,AWAY,G,J. Small,Out,Very Unlikely To Play,0
+8:00 PM ET,MEM,AWAY,G,Ja Morant,Out,Very Unlikely To Play,0
+8:00 PM ET,MEM,AWAY,G,S. Pippen,Out,Very Unlikely To Play,0
+8:00 PM ET,MEM,AWAY,G,Ty Jerome,Out,Very Unlikely To Play,0
+8:00 PM ET,SAS,HOME,G,D. Harper,Out,Very Unlikely To Play,0
+8:00 PM ET,SAS,HOME,G,J. McLaughlin,Out,Very Unlikely To Play,0
+8:00 PM ET,SAS,HOME,G,S. Castle,Out,Very Unlikely To Play,0
+8:00 PM ET,SAS,HOME,C,V. Wembanyama,Out,Very Unlikely To Play,0
