@@ -1,0 +1,21 @@
+game_time,team,side,lineup_status,starters,may_not_play,may_not_play_count,lineup_confirmed,starter_1,starter_2,starter_3,starter_4,starter_5
+,,AWAY,EXPECTED,"['F. Campazzo', 'A. Abalde', 'Mario Hezonja', 'Chuma Okeke', 'W. Tavares']",[],0,0,F. Campazzo,A. Abalde,Mario Hezonja,Chuma Okeke,W. Tavares
+,,HOME,EXPECTED,"['N. Weiler-Babb', 'Jordan Loyd', 'I. Cordinier', 'Ercan Osmani', 'Rolands Smits']",[],0,0,N. Weiler-Babb,Jordan Loyd,I. Cordinier,Ercan Osmani,Rolands Smits
+,,AWAY,EXPECTED,"['J. Clark III', 'L. Walker IV', 'O. Brissett', 'Roman Sorkin', 'Jaylen Hoard']",[],0,0,J. Clark III,L. Walker IV,O. Brissett,Roman Sorkin,Jaylen Hoard
+,,HOME,EXPECTED,"['S. Francisco', 'I. Brazdeikis', 'E. Ulanovas', 'A. Tubelis', 'Moses Wright']",[],0,0,S. Francisco,I. Brazdeikis,E. Ulanovas,A. Tubelis,Moses Wright
+,,AWAY,EXPECTED,"['Nadir Hifi', 'S. Herrera', 'Jared Rhoden', 'Derek Willis', 'Ismael Bako']",[],0,0,Nadir Hifi,S. Herrera,Jared Rhoden,Derek Willis,Ismael Bako
+,,HOME,EXPECTED,"['Mike James', 'Elie Okobo', 'Alpha Diallo', 'J. Blossomgame', 'Daniel Theis']",[],0,0,Mike James,Elie Okobo,Alpha Diallo,J. Blossomgame,Daniel Theis
+,,AWAY,EXPECTED,"['Nando de Colo', 'S. Harrison', 'David Lighty', 'Bodian Massa', 'Armel Traore']",[],0,0,Nando de Colo,S. Harrison,David Lighty,Bodian Massa,Armel Traore
+,,HOME,EXPECTED,"['V. Micic', 'Chris Jones', 'Elijah Bryant', 'Ish Wainright', 'Dan Oturu']",[],0,0,V. Micic,Chris Jones,Elijah Bryant,Ish Wainright,Dan Oturu
+,,AWAY,EXPECTED,"['Devon Hall', 'T. Horton-Tucker', 'T. Biberovic', 'Nicolo Melli', 'Khem Birch']",[],0,0,Devon Hall,T. Horton-Tucker,T. Biberovic,Nicolo Melli,Khem Birch
+,,HOME,EXPECTED,"['Thomas Walkup', 'Tyler Dorsey', 'Tyson Ward', 'S. Vezenkov', 'N. Milutinov']",[],0,0,Thomas Walkup,Tyler Dorsey,Tyson Ward,S. Vezenkov,N. Milutinov
+,,AWAY,EXPECTED,"['S. Dinwiddie', 'J. Hollatz', 'V. Lucic', 'Isiaha Mike', 'J. Voigtmann']",[],0,0,S. Dinwiddie,J. Hollatz,V. Lucic,Isiaha Mike,J. Voigtmann
+,,HOME,EXPECTED,"['Shake Milton', 'S. Brown', 'V. Marinkovic', 'A. Pokusevski', 'B. Fernando']",[],0,0,Shake Milton,S. Brown,V. Marinkovic,A. Pokusevski,B. Fernando
+,,AWAY,EXPECTED,"['T. Satoransky', 'Kevin Punter', 'Will Clyburn', 'T. Shengelia', 'Jan Vesely']",[],0,0,T. Satoransky,Kevin Punter,Will Clyburn,T. Shengelia,Jan Vesely
+,,HOME,EXPECTED,"['C. Miller-McIntyre', 'Ognjen Dobric', 'Jordan Nwora', 'Chima Moneke', 'D. Motiejunas']",[],0,0,C. Miller-McIntyre,Ognjen Dobric,Jordan Nwora,Chima Moneke,D. Motiejunas
+,,AWAY,EXPECTED,"['Jean Montero', 'Omari Moore', 'K. Taylor', 'Nate Reuvers', 'J. Pradilla']",[],0,0,Jean Montero,Omari Moore,K. Taylor,Nate Reuvers,J. Pradilla
+,,HOME,EXPECTED,"['TJ Shorts', 'Kendrick Nunn', 'Cedi Osman', 'J. Hernangomez', 'K. Faried']",[],0,0,TJ Shorts,Kendrick Nunn,Cedi Osman,J. Hernangomez,K. Faried
+,,AWAY,EXPECTED,"['L. Bolmaro', 'Quinn Ellis', 'S. Shields', 'Zach LeDay', 'Devin Booker']",[],0,0,L. Bolmaro,Quinn Ellis,S. Shields,Zach LeDay,Devin Booker
+,,HOME,EXPECTED,"['Kobi Simmons', 'Markus Howard', 'H. Diallo', 'R. Kurucs', 'Khalifa Diop']",[],0,0,Kobi Simmons,Markus Howard,H. Diallo,R. Kurucs,Khalifa Diop
+,,AWAY,EXPECTED,"['M. Wright IV', 'Boogie Ellis', 'Awudu Abass', 'F. Petrusev', 'M. Kabengele']",[],0,0,M. Wright IV,Boogie Ellis,Awudu Abass,F. Petrusev,M. Kabengele
+,,HOME,EXPECTED,"['Luca Vildoza', 'C. Edwards', 'Nicola Akele', 'D. Alston Jr.', 'M. Diouf']",[],0,0,Luca Vildoza,C. Edwards,Nicola Akele,D. Alston Jr.,M. Diouf
