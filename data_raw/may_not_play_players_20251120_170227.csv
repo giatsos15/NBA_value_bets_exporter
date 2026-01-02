@@ -1,0 +1,30 @@
+game_time,team,side,position,player,status,title_text,likelihood_pct
+7:00 PM ET,LAC,AWAY,G,B. Beal,OFS,Very Likely To Play,0
+7:00 PM ET,LAC,AWAY,F,D. Jones,Out,Very Unlikely To Play,0
+7:00 PM ET,LAC,AWAY,G,J. Miller,Out,Very Unlikely To Play,0
+7:00 PM ET,LAC,AWAY,F,K. Leonard,Out,Very Unlikely To Play,0
+7:00 PM ET,ORL,HOME,C,M. Wagner,Out,Very Unlikely To Play,0
+7:00 PM ET,ORL,HOME,F,P. Banchero,Out,Very Unlikely To Play,0
+8:00 PM ET,ATL,AWAY,C,K. Porzingis,Ques,Toss Up To Play,50
+8:00 PM ET,ATL,AWAY,G,Trae Young,Out,Very Unlikely To Play,0
+8:00 PM ET,ATL,AWAY,F,Z. Risacher,Ques,Toss Up To Play,50
+8:00 PM ET,PHI,AWAY,C,Adem Bona,Out,Very Unlikely To Play,0
+8:00 PM ET,PHI,AWAY,C,J. Embiid,Ques,Toss Up To Play,50
+8:00 PM ET,PHI,AWAY,F,K. Oubre,Out,Very Unlikely To Play,0
+8:00 PM ET,PHI,AWAY,F,P. George,Prob,Likely To Play,75
+8:00 PM ET,SAC,AWAY,C,D. Sabonis,Ques,Toss Up To Play,50
+8:00 PM ET,SAC,AWAY,F,K. Murray,Prob,Likely To Play,75
+8:00 PM ET,MEM,HOME,C,B. Clarke,Out,Very Unlikely To Play,0
+8:00 PM ET,MEM,HOME,F,J. Jackson,Doubt,Unlikely To Play,25
+8:00 PM ET,MEM,HOME,G,J. Small,Out,Very Unlikely To Play,0
+8:00 PM ET,MEM,HOME,G,Ja Morant,Out,Very Unlikely To Play,0
+8:00 PM ET,MEM,HOME,G,S. Pippen,Out,Very Unlikely To Play,0
+8:00 PM ET,MEM,HOME,G,Ty Jerome,Out,Very Unlikely To Play,0
+8:00 PM ET,MIL,HOME,F,G. Antetokounmpo,Out,Very Unlikely To Play,0
+8:00 PM ET,MIL,HOME,G,G. Harris,Ques,Toss Up To Play,50
+8:00 PM ET,MIL,HOME,G,K. Porter,Out,Very Unlikely To Play,0
+8:00 PM ET,MIL,HOME,F,T. Prince,Out,Very Unlikely To Play,0
+8:00 PM ET,SAS,HOME,G,D. Harper,Out,Very Unlikely To Play,0
+8:00 PM ET,SAS,HOME,G,J. McLaughlin,Out,Very Unlikely To Play,0
+8:00 PM ET,SAS,HOME,G,S. Castle,Out,Very Unlikely To Play,0
+8:00 PM ET,SAS,HOME,C,V. Wembanyama,Out,Very Unlikely To Play,0

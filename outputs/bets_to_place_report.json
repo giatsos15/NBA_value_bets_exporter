@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-11-07 11:53:10 UTC",
+  "input_rows": 280,
+  "after_filters_rows": 260,
+  "deduped_rows": 93,
+  "books": {
+    "hardrock": 39,
+    "draftkings": 36,
+    "caesars": 11,
+    "fanduel": 7
+  },
+  "prop_types": {
+    "pts": 18,
+    "ptsreb": 15,
+    "ptsast": 14,
+    "reb": 14,
+    "3pm": 13,
+    "pra": 10,
+    "ast": 9
+  },
+  "avg_edge_bp": 21.952088172043005,
+  "median_edge_bp": 20.6708,
+  "avg_kelly_frac": 0.01780322580645161,
+  "performance": {
+    "n_settled": 87,
+    "hit_rate": 0.4827586206896552,
+    "roi_flat": -0.0912958593154911,
+    "roi_kelly": -0.123990805580084
+  }
+}

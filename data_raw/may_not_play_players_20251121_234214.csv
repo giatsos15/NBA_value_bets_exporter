@@ -1,0 +1,64 @@
+game_time,team,side,position,player,status,title_text,likelihood_pct
+10:00 PM ET,OKC,AWAY,F,A. Wiggins,Out,Very Unlikely To Play,0
+10:00 PM ET,OKC,AWAY,F,J. Williams,Out,Very Unlikely To Play,0
+10:00 PM ET,OKC,AWAY,F,K. Williams,Out,Very Unlikely To Play,0
+10:00 PM ET,OKC,AWAY,G,N. Topic,Out,Very Unlikely To Play,0
+10:00 PM ET,OKC,AWAY,C,T. Sorber,OFS,Very Likely To Play,0
+10:00 PM ET,POR,AWAY,G,B. Wesley,Out,Very Unlikely To Play,0
+10:00 PM ET,POR,AWAY,G,D. Lillard,OFS,Very Likely To Play,0
+10:00 PM ET,POR,AWAY,F,J. Grant,Prob,Likely To Play,75
+10:00 PM ET,POR,AWAY,G,J. Holiday,Out,Very Unlikely To Play,0
+10:00 PM ET,POR,AWAY,F,M. Thybulle,Out,Very Unlikely To Play,0
+10:00 PM ET,POR,AWAY,C,R. Williams,Ques,Toss Up To Play,50
+10:00 PM ET,POR,AWAY,G,S. Henderson,Out,Very Unlikely To Play,0
+10:00 PM ET,POR,AWAY,G,S. Sharpe,Out,Very Unlikely To Play,0
+10:00 PM ET,GSW,HOME,G,B. Hield,Prob,Likely To Play,75
+10:00 PM ET,GSW,HOME,C,D. Green,Prob,Likely To Play,75
+10:00 PM ET,GSW,HOME,G,D. Melton,Out,Very Unlikely To Play,0
+10:00 PM ET,GSW,HOME,F,J. Butler,Prob,Likely To Play,75
+10:00 PM ET,GSW,HOME,F,J. Kuminga,Out,Very Unlikely To Play,0
+10:00 PM ET,UTA,HOME,F,G. Niang,Out,Very Unlikely To Play,0
+10:00 PM ET,UTA,HOME,C,W. Kessler,OFS,Very Likely To Play,0
+7:00 PM ET,IND,AWAY,F,A. Nesmith,Out,Very Unlikely To Play,0
+7:00 PM ET,IND,AWAY,G,J. Furphy,Out,Very Unlikely To Play,0
+7:00 PM ET,IND,AWAY,G,Kam Jones,Out,Very Unlikely To Play,0
+7:00 PM ET,IND,AWAY,F,Obi Toppin,Out,Very Unlikely To Play,0
+7:00 PM ET,IND,AWAY,G,Q. Jackson,Out,Very Unlikely To Play,0
+7:00 PM ET,IND,AWAY,G,T. Haliburton,OFS,Very Likely To Play,0
+7:00 PM ET,CLE,HOME,C,J. Allen,Out,Very Unlikely To Play,0
+7:00 PM ET,CLE,HOME,F,Max Strus,Out,Very Unlikely To Play,0
+7:00 PM ET,CLE,HOME,G,S. Merrill,Out,Very Unlikely To Play,0
+7:30 PM ET,BKN,AWAY,G,Ben Saraf,Out,Very Unlikely To Play,0
+7:30 PM ET,BKN,AWAY,G,Cam Thomas,Out,Very Unlikely To Play,0
+7:30 PM ET,BKN,AWAY,F,H. Highsmith,Out,Very Unlikely To Play,0
+7:30 PM ET,WAS,AWAY,G,AJ Johnson,Out,Very Unlikely To Play,0
+7:30 PM ET,WAS,AWAY,C,Alex Sarr,Out,Very Unlikely To Play,0
+7:30 PM ET,WAS,AWAY,C,M. Bagley,Out,Very Unlikely To Play,0
+7:30 PM ET,BOS,HOME,F,J. Tatum,Out,Very Unlikely To Play,0
+7:30 PM ET,TOR,HOME,F,C. Murray-Boyles,Out,Very Unlikely To Play,0
+8:00 PM ET,MIA,AWAY,F,A. Wiggins,Out,Very Unlikely To Play,0
+8:00 PM ET,MIA,AWAY,F,N. Jovic,Out,Very Unlikely To Play,0
+8:00 PM ET,MIA,AWAY,G,T. Herro,Out,Very Unlikely To Play,0
+8:00 PM ET,MIA,AWAY,G,T. Rozier,Out,Very Unlikely To Play,0
+8:00 PM ET,CHI,HOME,G,Coby White,Out,Very Unlikely To Play,0
+8:00 PM ET,CHI,HOME,C,Z. Collins,Out,Very Unlikely To Play,0
+8:30 PM ET,NOP,AWAY,G,D. Murray,Out,Very Unlikely To Play,0
+8:30 PM ET,NOP,AWAY,G,J. Poole,Out,Very Unlikely To Play,0
+8:30 PM ET,NOP,AWAY,C,K. Matkovic,Out,Very Unlikely To Play,0
+8:30 PM ET,DAL,HOME,C,A. Davis,Out,Very Unlikely To Play,0
+8:30 PM ET,DAL,HOME,G,D. Russell,Ques,Toss Up To Play,50
+8:30 PM ET,DAL,HOME,G,Dante Exum,OFS,Very Likely To Play,0
+8:30 PM ET,DAL,HOME,G,K. Irving,Out,Very Unlikely To Play,0
+8:30 PM ET,DAL,HOME,G,R. Nembhard,Out,Very Unlikely To Play,0
+9:00 PM ET,MIN,AWAY,F,T. Shannon,Out,Very Unlikely To Play,0
+9:00 PM ET,PHX,HOME,G,G. Allen,Out,Very Unlikely To Play,0
+9:00 PM ET,PHX,HOME,G,J. Green,Out,Very Unlikely To Play,0
+9:00 PM ET,PHX,HOME,F,R. Fleming,Out,Very Unlikely To Play,0
+9:30 PM ET,DEN,AWAY,F,A. Gordon,Prob,Likely To Play,75
+9:30 PM ET,DEN,AWAY,G,C. Braun,Out,Very Unlikely To Play,0
+9:30 PM ET,DEN,AWAY,F,J. Strawther,Out,Very Unlikely To Play,0
+9:30 PM ET,HOU,HOME,F,D. Finney-Smith,Out,Very Unlikely To Play,0
+9:30 PM ET,HOU,HOME,G,F. VanVleet,Out,Very Unlikely To Play,0
+9:30 PM ET,HOU,HOME,F,J. Smith,Ques,Toss Up To Play,50
+9:30 PM ET,HOU,HOME,C,S. Adams,Ques,Toss Up To Play,50
+9:30 PM ET,HOU,HOME,F,Tari Eason,Out,Very Unlikely To Play,0

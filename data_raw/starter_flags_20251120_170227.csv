@@ -1,0 +1,35 @@
+player,team,is_starter,start_prob
+James Harden,LAC,1,0.7
+Kris Dunn,LAC,1,0.7
+Kobe Sanders,LAC,1,0.7
+John Collins,LAC,1,0.7
+Ivica Zubac,LAC,1,0.7
+Jalen Suggs,ORL,1,0.7
+Desmond Bane,ORL,1,0.7
+Franz Wagner,ORL,1,0.7
+T. da Silva,ORL,1,0.7
+W. Carter,ORL,1,0.7
+Tyrese Maxey,PHI,1,0.7
+VJ Edgecombe,PHI,1,0.7
+D. Barlow,PHI,1,0.7
+Ryan Rollins,MIL,1,0.7
+AJ Green,MIL,1,0.7
+Gary Trent,MIL,1,0.7
+Kyle Kuzma,MIL,1,0.7
+Myles Turner,MIL,1,0.7
+Dyson Daniels,ATL,1,0.7
+N. Alexander-Walker,ATL,1,0.7
+Jalen Johnson,ATL,1,0.7
+De'Aaron Fox,SAS,1,0.7
+J. Champagnie,SAS,1,0.7
+Devin Vassell,SAS,1,0.7
+H. Barnes,SAS,1,0.7
+Luke Kornet,SAS,1,0.7
+R. Westbrook,SAC,1,0.7
+Zach LaVine,SAC,1,0.7
+DeMar DeRozan,SAC,1,0.7
+V. Williams,MEM,1,0.7
+Jaylen Wells,MEM,1,0.7
+Cedric Coward,MEM,1,0.7
+Santi Aldama,MEM,1,0.7
+Zach Edey,MEM,1,0.7
