@@ -1,6 +1,6 @@
 # NBA_value_bets_exporter
 
-# Here I will upload my analyses and thoughts on the management of statistics
+# Here I will upload my analysis and thoughts on the management of statistics
 
 In the nba notebook is the scrapping of stats and in stoiximan the scrapping of handicap. Maybe later we'll add the odds for calculating jersey percentages.
 
